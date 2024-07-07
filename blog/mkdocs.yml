@@ -1,9 +1,0 @@
-site_name: blog.rchapman.org
-site_url: https://blog-staging.rchapman.org
-extra_files:
-  - docs/CNAME
-theme:
-  name: material
-plugins:
-  - redirects
-
