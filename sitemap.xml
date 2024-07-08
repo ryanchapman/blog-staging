@@ -11,42 +11,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://blog-staging.rchapman.org/blog/</loc>
+         <loc>https://blog-staging.rchapman.org/posts/ASA_DAP_Lua_function_list/</loc>
          <lastmod>2024-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://blog-staging.rchapman.org/blog/2015/11/07/asa-dap-lua-function-list/</loc>
-         <lastmod>2024-07-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://blog-staging.rchapman.org/blog/archive/2015/</loc>
-         <lastmod>2024-07-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://blog-staging.rchapman.org/blog/category/asa/</loc>
-         <lastmod>2024-07-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://blog-staging.rchapman.org/blog/category/dap/</loc>
-         <lastmod>2024-07-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://blog-staging.rchapman.org/blog/category/lua/</loc>
-         <lastmod>2024-07-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://blog-staging.rchapman.org/blog/category/functions/</loc>
-         <lastmod>2024-07-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://blog-staging.rchapman.org/blog/category/function-list/</loc>
+         <loc>https://blog-staging.rchapman.org/posts/</loc>
          <lastmod>2024-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
