@@ -1,13 +1,13 @@
 ---
 title: "ASA: DAP LUA function list"
-date: "2015-11-07"
-redirect_from: "/post/132771415134/asa-dap-lua-function-list"
+date: 2015-11-07
 categories: 
-    - "asa"
-    - "dap"
-    - "lua"
-    - "functions"
-    - "function list"
+  - "asa"
+  - "dap"
+  - "lua"
+  - "functions"
+  - "function list"
+comments: true
 ---
 
 <p><em>ASA 9.4.2 (which has Lua 5.0.2), AnyConnect 4.0 on iOS</em></p>

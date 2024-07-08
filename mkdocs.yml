@@ -1,9 +1,47 @@
 site_name: blog.rchapman.org
 site_url: https://blog-staging.rchapman.org
-extra_files:
-  - docs/CNAME
 theme:
   name: material
+  custom_dir: overrides
+  features:
+    - content.action.edit
+    - navigation.indexes
+  icon:
+    repo: fontawesome/brands/square-github
+
+extra:
+  generator: false
+  analytics:
+    provider: google
+    property: G-E9LY6MD1Z3
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  disqus: blog-rchapman-org
+
+repo_name: ryanchapman/blog.rchapman.org
+repo_url: https://github.com/ryanchapman/blog-staging
+edit_uri: edit/main/
+
+markdown_extensions:
+  - attr_list
+  - toc:
+      permalink: "#"
+  - admonition
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+
 plugins:
-  - redirects
+  - blog:
+      blog_dir: posts
+  - redirects:
+      redirect_maps:
+        'post/132771415134/asa-dap-lua-function-list/index.md': 'posts/ASA_DAP_Lua_function_list.md'
+  - search
+
 

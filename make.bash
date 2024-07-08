@@ -82,7 +82,6 @@ function build
 
 function deploy
 {
-    build
     run python3 -m mkdocs gh-deploy --force
 }
 
