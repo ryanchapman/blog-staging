@@ -13,4 +13,5 @@ jobs:
           python-version: 3.x
       - run: ./make.bash deps
       - run: ./make.bash deploy
-
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
