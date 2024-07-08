@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://blog-staging.rchapman.org/ASA_DAP_Lua_function_list/</loc>
+         <lastmod>2024-07-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://blog-staging.rchapman.org/blog/</loc>
          <lastmod>2024-07-08</lastmod>
          <changefreq>daily</changefreq>
